@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="LYCASE_GPRA_Quizzer">
+</Property><Property Name="Solution File" Value="X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\LYCASE_GPRA_Quizzer.sln">
+</Property><Property Name="User Options File" Value="X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\LYCASE_GPRA_Quizzer.suo">
+</Property><Property Name="Date" Value="Tuesday, August 10, 2010">
+</Property><Property Name="Time" Value="2:50 AM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="LYCASE_GPRA_Quizzer.sln" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\LYCASE_GPRA_Quizzer.sln">
+</Event><Event ErrorLevel="0" Project="" Source="LYCASE_GPRA_Quizzer.suo" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\LYCASE_GPRA_Quizzer.suo">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="LYCASE_GPRA_Quizzer.vbproj" Description="Project file successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\LYCASE_GPRA_Quizzer.vbproj">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="LYCASE_GPRA_Quizzer.vbproj.user" Description="Project user file successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\LYCASE_GPRA_Quizzer.vbproj.user">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="frmIntox.Designer.vb" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\frmIntox.Designer.vb">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="frmIntox.vb" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\frmIntox.vb">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="frmTired.Designer.vb" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\frmTired.Designer.vb">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="frmTired.vb" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\frmTired.vb">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="frmStim.Designer.vb" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\frmStim.Designer.vb">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="frmStim.vb" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\frmStim.vb">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="frmRelax.Designer.vb" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\frmRelax.Designer.vb">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="frmRelax.vb" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\frmRelax.vb">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="frmEnjoy.Designer.vb" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\frmEnjoy.Designer.vb">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="frmEnjoy.vb" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\frmEnjoy.vb">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="frmAnxious.Designer.vb" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\frmAnxious.Designer.vb">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="frmAnxious.vb" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\frmAnxious.vb">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="frmChange.Designer.vb" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\frmChange.Designer.vb">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="frmChange.vb" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\frmChange.vb">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="frmFrustration.Designer.vb" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\frmFrustration.Designer.vb">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="frmFrustration.vb" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\frmFrustration.vb">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="frmBlank.Designer.vb" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\frmBlank.Designer.vb">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="frmBlank.vb" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\frmBlank.vb">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="frmPerfect.Designer.vb" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\frmPerfect.Designer.vb">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="frmPerfect.vb" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\frmPerfect.vb">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="frmWant.Designer.vb" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\frmWant.Designer.vb">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="frmWant.vb" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\frmWant.vb">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="frmDifficult.Designer.vb" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\frmDifficult.Designer.vb">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="frmDifficult.vb" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\frmDifficult.vb">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="frmNeed.Designer.vb" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\frmNeed.Designer.vb">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="frmNeed.vb" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\frmNeed.vb">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="frmTaste.Designer.vb" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\frmTaste.Designer.vb">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="frmTaste.vb" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\frmTaste.vb">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="frmNow.Designer.vb" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\frmNow.Designer.vb">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="frmNow.vb" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\frmNow.vb">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="frmChance.Designer.vb" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\frmChance.Designer.vb">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="frmChance.vb" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\frmChance.vb">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="frmMain.vb" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\frmMain.vb">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="frmMain.Designer.vb" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\frmMain.Designer.vb">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="frmDrinks.Designer.vb" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\frmDrinks.Designer.vb">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="frmDrinks.vb" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\frmDrinks.vb">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="frmThanks.Designer.vb" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\frmThanks.Designer.vb">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="frmThanks.vb" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\frmThanks.vb">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="My Project\AssemblyInfo.vb" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="My Project\Application.Designer.vb" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="My Project\Resources.Designer.vb" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="My Project\Settings.Designer.vb" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="frmCrave.Designer.vb" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\frmCrave.Designer.vb">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="frmCrave.vb" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\frmCrave.vb">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="My Project\Application.myapp" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="My Project\Settings.settings" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="GPRA_Quizzer_TemporaryKey.pfx" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\GPRA_Quizzer_TemporaryKey.pfx">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="LYCASE_GPRA_Quizzer_1_TemporaryKey.pfx" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\LYCASE_GPRA_Quizzer_1_TemporaryKey.pfx">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="LYCASE_GPRA_Quizzer_TemporaryKey.pfx" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\LYCASE_GPRA_Quizzer_TemporaryKey.pfx">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="Resources\up.bmp" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\Resources\up.bmp">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="LYCASE.ico" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\LYCASE.ico">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="frmIntox.resx" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\frmIntox.resx">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="frmTired.resx" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\frmTired.resx">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="frmStim.resx" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\frmStim.resx">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="frmRelax.resx" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\frmRelax.resx">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="frmEnjoy.resx" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\frmEnjoy.resx">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="frmAnxious.resx" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\frmAnxious.resx">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="frmChange.resx" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\frmChange.resx">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="frmFrustration.resx" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\frmFrustration.resx">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="frmBlank.resx" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\frmBlank.resx">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="frmPerfect.resx" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\frmPerfect.resx">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="frmWant.resx" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\frmWant.resx">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="frmDifficult.resx" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\frmDifficult.resx">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="frmNeed.resx" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\frmNeed.resx">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="frmTaste.resx" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\frmTaste.resx">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="frmNow.resx" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\frmNow.resx">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="frmChance.resx" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\frmChance.resx">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="frmDrinks.resx" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\frmDrinks.resx">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="frmMain.resx" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\frmMain.resx">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="frmThanks.resx" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\frmThanks.resx">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="My Project\Resources.resx" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="frmCrave.resx" Description="File successfully backed up as X:\sQuizzers\LYCASE_GPRA\LYCASE_Quizzer1.0.04\Backup\frmCrave.resx">
+</Event><Event ErrorLevel="0" Project="LYCASE_GPRA_Quizzer" Source="LYCASE_GPRA_Quizzer.vbproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="LYCASE_GPRA_Quizzer" Source="LYCASE_GPRA_Quizzer.vbproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="LYCASE_GPRA_Quizzer.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="LYCASE_GPRA_Quizzer.sln" Description="Converted">
+</Event></UpgradeLog>

@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B0EA5E70-6889-41C8-9864-D286F544E47E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>VGCATMood.My.MyApplication</StartupObject>
+    <RootNamespace>VGCATMood</RootNamespace>
+    <AssemblyName>VGCAT Mood Squiz</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>..\</OutputPath>
+    <DocumentationFile>
+    </DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>
+    </DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmCalm.Designer.vb">
+      <DependentUpon>frmCalm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCalm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHappy.Designer.vb">
+      <DependentUpon>frmHappy.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmHappy.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmExample.Designer.vb">
+      <DependentUpon>frmExample.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmExample.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSad.Designer.vb">
+      <DependentUpon>frmSad.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSad.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStress.Designer.vb">
+      <DependentUpon>frmStress.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmStress.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTest.Designer.vb">
+      <DependentUpon>frmTest.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmTest.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEnd.designer.vb">
+      <DependentUpon>frmEnd.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEnd.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTired.Designer.vb">
+      <DependentUpon>frmTired.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmTired.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAlert.designer.vb">
+      <DependentUpon>frmAlert.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAlert.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBlank.designer.vb">
+      <DependentUpon>frmBlank.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmBlank.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.designer.vb">
+      <DependentUpon>frmMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmThanks.designer.vb">
+      <DependentUpon>frmThanks.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmThanks.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmAlert.resx">
+      <DependentUpon>frmAlert.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBlank.resx">
+      <DependentUpon>frmBlank.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCalm.resx">
+      <DependentUpon>frmCalm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmExample.resx">
+      <DependentUpon>frmExample.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHappy.resx">
+      <DependentUpon>frmHappy.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSad.resx">
+      <DependentUpon>frmSad.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStress.resx">
+      <DependentUpon>frmStress.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTest.resx">
+      <DependentUpon>frmTest.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEnd.resx">
+      <DependentUpon>frmEnd.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmThanks.resx">
+      <DependentUpon>frmThanks.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTired.resx">
+      <DependentUpon>frmTired.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,26 @@
+Z:\sQuizzers\HASDA Squizzers\HASDA Regular Qstn Squiz\HASDA Squizz\HASDA_sQuizzer.exe.config
+Z:\sQuizzers\HASDA Squizzers\HASDA Regular Qstn Squiz\HASDA Squizz\HASDA_sQuizzer.exe.manifest
+Z:\sQuizzers\HASDA Squizzers\HASDA Regular Qstn Squiz\HASDA Squizz\HASDA_sQuizzer.application
+Z:\sQuizzers\HASDA Squizzers\HASDA Regular Qstn Squiz\HASDA Squizz\HASDA_sQuizzer.exe
+Z:\sQuizzers\HASDA Squizzers\HASDA Regular Qstn Squiz\HASDA Squizz\HASDA_sQuizzer.pdb
+Z:\sQuizzers\HASDA Squizzers\HASDA Regular Qstn Squiz\Squizz Form Files\obj\Debug\HASDA_sQuizzer.vbprojResolveAssemblyReference.cache
+Z:\sQuizzers\HASDA Squizzers\HASDA Regular Qstn Squiz\Squizz Form Files\obj\Debug\HASDA_sQuizzer.vbproj.ResolveComReference.cache
+Z:\sQuizzers\HASDA Squizzers\HASDA Regular Qstn Squiz\Squizz Form Files\obj\Debug\HASDA_sQuizzer.frmIntox.resources
+Z:\sQuizzers\HASDA Squizzers\HASDA Regular Qstn Squiz\Squizz Form Files\obj\Debug\HASDA_sQuizzer.frmTired.resources
+Z:\sQuizzers\HASDA Squizzers\HASDA Regular Qstn Squiz\Squizz Form Files\obj\Debug\HASDA_sQuizzer.frmStim.resources
+Z:\sQuizzers\HASDA Squizzers\HASDA Regular Qstn Squiz\Squizz Form Files\obj\Debug\HASDA_sQuizzer.frmRelax.resources
+Z:\sQuizzers\HASDA Squizzers\HASDA Regular Qstn Squiz\Squizz Form Files\obj\Debug\HASDA_sQuizzer.frmEnjoy.resources
+Z:\sQuizzers\HASDA Squizzers\HASDA Regular Qstn Squiz\Squizz Form Files\obj\Debug\HASDA_sQuizzer.frmAnxious.resources
+Z:\sQuizzers\HASDA Squizzers\HASDA Regular Qstn Squiz\Squizz Form Files\obj\Debug\HASDA_sQuizzer.frmBlank.resources
+Z:\sQuizzers\HASDA Squizzers\HASDA Regular Qstn Squiz\Squizz Form Files\obj\Debug\HASDA_sQuizzer.frmDislike.resources
+Z:\sQuizzers\HASDA Squizzers\HASDA Regular Qstn Squiz\Squizz Form Files\obj\Debug\HASDA_sQuizzer.frmNeed.resources
+Z:\sQuizzers\HASDA Squizzers\HASDA Regular Qstn Squiz\Squizz Form Files\obj\Debug\HASDA_sQuizzer.frmDrinks.resources
+Z:\sQuizzers\HASDA Squizzers\HASDA Regular Qstn Squiz\Squizz Form Files\obj\Debug\HASDA_sQuizzer.frmMain.resources
+Z:\sQuizzers\HASDA Squizzers\HASDA Regular Qstn Squiz\Squizz Form Files\obj\Debug\HASDA_sQuizzer.frmThanks.resources
+Z:\sQuizzers\HASDA Squizzers\HASDA Regular Qstn Squiz\Squizz Form Files\obj\Debug\HASDA_sQuizzer.Resources.resources
+Z:\sQuizzers\HASDA Squizzers\HASDA Regular Qstn Squiz\Squizz Form Files\obj\Debug\HASDA_sQuizzer.frmCrave.resources
+Z:\sQuizzers\HASDA Squizzers\HASDA Regular Qstn Squiz\Squizz Form Files\obj\Debug\HASDA_sQuizzer.vbproj.GenerateResource.Cache
+Z:\sQuizzers\HASDA Squizzers\HASDA Regular Qstn Squiz\Squizz Form Files\obj\Debug\HASDA_sQuizzer.exe.manifest
+Z:\sQuizzers\HASDA Squizzers\HASDA Regular Qstn Squiz\Squizz Form Files\obj\Debug\HASDA_sQuizzer.application
+Z:\sQuizzers\HASDA Squizzers\HASDA Regular Qstn Squiz\Squizz Form Files\obj\Debug\HASDA_sQuizzer.exe
+Z:\sQuizzers\HASDA Squizzers\HASDA Regular Qstn Squiz\Squizz Form Files\obj\Debug\HASDA_sQuizzer.pdb

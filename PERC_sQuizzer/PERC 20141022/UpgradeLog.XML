@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="LYCASE_Quizzer">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\kywindis\Desktop\LYCASE_GPRA_Quizzer\LYCASE_Quizzer\LYCASE_Quizzer.sln">
+</Property><Property Name="Date" Value="Wednesday, June 23, 2010">
+</Property><Property Name="Time" Value="23:21 PM">
+</Property></Properties><Event ErrorLevel="0" Project="LYCASE_Quizzer" Source="LYCASE_Quizzer.vbproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="LYCASE_Quizzer" Source="LYCASE_Quizzer.vbproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="LYCASE_Quizzer.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="LYCASE_Quizzer.sln" Description="Converted">
+</Event></UpgradeLog>
